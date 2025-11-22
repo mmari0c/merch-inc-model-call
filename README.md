@@ -1,6 +1,7 @@
 # Merch Inc. Model Call
 
 A web platform to streamline the **model call process** for Merch Inc.’s semester fashion shows.  
+
 This project replaces the current messy, manual process (shared laptops, forgotten numbers, confusing picks) with a **simple, transparent, and organized system**.
 
 ---
@@ -38,9 +39,5 @@ Currently, the process is slowed down by:
 2. Integrate Supabase for auth and database storage  
 3. Add real-time updates and selection logic  
 4. Deploy demo on Vercel  
-5. Pilot test at the next Merch Inc. model call  
-
----
-
-## Author
-Mario Nolasco – [LinkedIn](https://www.linkedin.com/in/marionolascocortez/)
+5. Test with Merch Inc. club members
+6. Pilot test for the next Merch Inc. model call  
