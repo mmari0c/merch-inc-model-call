@@ -5,8 +5,7 @@ A web platform to streamline the **model call process** for Merch Inc.’s biann
 This project replaces the current messy, manual process (shared laptops, forgotten numbers, confusing picks) with a **simple, transparent, and organized system**.
 
 ## Overview
-Every semester, Merch Inc. hosts a fashion show where designers select models.  
-for their collection. Currently, the process is slowed down by:
+Every semester, Merch Inc. hosts a fashion show where designers select models for their collection. Currently, the process is slowed down by:
 
 - Manual sign-ups on a limited number of laptops
 - Models forgetting their assigned numbers
