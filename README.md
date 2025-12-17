@@ -4,8 +4,6 @@ A web platform to streamline the **model call process** for Merch Inc.’s biann
 
 This project replaces the current messy, manual process (shared laptops, forgotten numbers, confusing picks) with a **simple, transparent, and organized system**.
 
----
-
 ## Overview
 Every semester, Merch Inc. hosts a fashion show where designers select models.  
 Currently, the process is slowed down by:
@@ -19,12 +17,10 @@ Currently, the process is slowed down by:
 - A transparent selection system with real-time updates
 - An admin dashboard to manage stages and export results
 
----
 
 ## Demo (Figma Prototype)
 [View Figma Demo](https://www.figma.com/make/u88hRbZ6gWMlwZMvsHsQeu/Fashion-Show-Model-Call-Wireframes?node-id=0-1&t=NDNBv05NmcmsxZCM-1)
 
----
 
 ## Tech Stack (Planned)
 - **Frontend:** React + Next.js  
@@ -32,7 +28,6 @@ Currently, the process is slowed down by:
 - **Backend:** Supabase (Auth, Database, Storage, Realtime)  
 - **Deployment:** TBD  
 
----
 
 ## Roadmap
 1. Build frontend mock with **Next.js + Tailwind** using fake data  
