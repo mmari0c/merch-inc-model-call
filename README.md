@@ -7,13 +7,19 @@ This project replaces the current messy, manual process (shared laptops, forgott
 ## Overview
 Every semester, Merch Inc. hosts a fashion show where designers select models.  
 Currently, the process is slowed down by:
-- Manual sign-ups on a few laptops
-- Models forgetting their assigned numbers
-- Designers struggling to track who is available vs. already picked
 
-**This project solves those problems by providing:**
-- A sign-up portal for models and designers
-- Profiles with photos and details
+- Manual sign-ups on a limited number of laptops
+- Models forgetting their assigned numbers
+- Designers struggling to track which models are available versus already selected
+- Designers relying on memory to keep track of models they’re interested in
+- Models are unsure whether they’ve been selected
+- Models have limited ways to showcase themselves beyond a runway walk
+
+**This project addresses these challenges by providing:**
+
+- A centralized sign-up portal for both models and designers
+- Model profiles with photos, key details, and assigned model numbers
+- A marketplace-style interface for designers to browse and evaluate models
 - A transparent selection system with real-time updates
 - An admin dashboard to manage stages and export results
 
